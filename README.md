@@ -34,7 +34,7 @@
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dthiwanka" alt="dthiwanka" /></a> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dthiwanka&no-bg=true" alt="dthiwanka" /></a> 
 <hr>
 </p>
 
