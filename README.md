@@ -38,11 +38,9 @@
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dthiwanka&theme=discord&no-bg=true&no-frame=true&margin-w=15" alt="dthiwanka" /></a> 
 
-</p>
 
-<hr>
+
 
 <br/>
 <p align="left">
@@ -53,4 +51,14 @@
 </p>
 <br>
 
-[![Dulaj Thiwanka' Activity Graph](https://activity-graph.herokuapp.com/graph?username=dthiwanka&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dthiwanka.github.io)
+[![Dulaj Thiwanka' Activity Graph](https://activity-graph.herokuapp.com/graph?username=dthiwanka&custom_title=Dulaj's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dthiwanka.github.io)
+<hr>
+<p align="left">
+  <a href="https://dthiwanka.github.io">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dthiwanka&layout=compact&theme=gruvbox&hide_border=true" />
+     <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
+    
+   
+  </a>
+</p>
+<br>
