@@ -1,5 +1,8 @@
-<h1>Hi 👋, I'm Dulaj Thiwanka</h1>
-<h3>Undergraduate In SLIIT @SriLanka</h3>
+![Header](./header.png)
+
+<h3>Undergraduate Student @SLIIT</h3>
+<h6>BSc (Hons) in Information Technology
+Specialising in Information Technology</h6>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajth&label=Profile%20views&color=0e75b6&style=flat" alt="dulajth" /> </p> -->
 
@@ -25,7 +28,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dulaj-thi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-thi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16438406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16438406" height="30" width="40" /></a>
-<a href="https://instagram.com/woofie_mr.69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="woofie_mr.69" height="30" width="40" /></a>
+<a href="https://instagram.com/woofie_mr.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="woofie_mr.69" height="30" width="40" /></a>
 <a href = 'https://www.github.com/DulajTh'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </p>
@@ -53,6 +56,8 @@
 <br>
 
 [![Dulaj Thiwanka' Activity Graph](https://activity-graph.herokuapp.com/graph?username=dthiwanka&custom_title=Dulaj's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dthiwanka.github.io)
+![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/DulajThiwanka123/DulajThiwanka123/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/DulajThiwanka123/DulajThiwanka123/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <hr>
 <p align="left">
   <a href="https://dthiwanka.github.io">
@@ -62,4 +67,6 @@
    
   </a>
 </p>
+
 <br>
+
