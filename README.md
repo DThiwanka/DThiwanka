@@ -56,6 +56,7 @@ Specialising in Information Technology</h6>
 <br>
 
 [![Dulaj Thiwanka' Activity Graph](https://activity-graph.herokuapp.com/graph?username=dthiwanka&custom_title=Dulaj's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dthiwanka.github.io)
+<br>
 ![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/DThiwanka/DThiwanka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/DThiwanka/DThiwanka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <hr>
