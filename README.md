@@ -26,7 +26,7 @@ Specialising in Information Technology</h6>
 
 <h3 align="left">Connect with me: :comet: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/dulaj-thi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-thi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dulaj-thiwanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-thi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16438406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16438406" height="30" width="40" /></a>
 <a href="https://instagram.com/woofie_mr.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="woofie_mr.69" height="30" width="40" /></a>
 <a href = 'https://www.github.com/DulajTh'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
