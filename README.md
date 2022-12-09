@@ -10,7 +10,7 @@ Specialising in Information Technology</h6>
 <h4>∙∙ Thank You for taking the time to view my GitHub Profile :dizzy: </h4>
 <hr>
 
-- 🔭 I’m currently working at **Axiata Digital Labs** as a Intern software engineer
+- 🔭 Former Intern software engineer at **Axiata Digital Labs** 
 
 - 🌱 I’m currently learning **Software Engineering @SLIIT** 
 
