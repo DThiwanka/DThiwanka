@@ -71,7 +71,6 @@ Specialising in Information Technology</h6>
    
   </a>
 </p>
-<div align="center"><img src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=vu6m32kibo3hqrnjcvo193k72&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true" /></div>  
 <br>
 
 
