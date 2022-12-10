@@ -49,15 +49,15 @@ Specialising in Information Technology</h6>
 <br/>
 <p align="left">
   <a href="https://dthiwanka.github.io">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dthiwanka&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dthiwanka&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dthiwanka&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dthiwanka&theme=dark&hide_border=true" />
   </a>
 </p>
 <br>
 
 
 ![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DThiwanka&bg_color=00000f&color=ffffff&line=00ff5e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dulaj Thiwanka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DThiwanka&bg_color=00000f&color=ffffff&line=00ff5e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dthiwanka/dthiwanka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dthiwanka/dthiwanka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -65,7 +65,7 @@ Specialising in Information Technology</h6>
 <hr>
 <p align="left">
   <a href="https://dthiwanka.github.io">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dthiwanka&layout=compact&theme=gruvbox&hide_border=true" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dthiwanka&layout=compact&theme=dark&hide_border=true" />
      <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
     
    
