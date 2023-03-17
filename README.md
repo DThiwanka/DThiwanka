@@ -74,6 +74,6 @@ Specialising in Information Technology</h6>
 <br>
 ## Awards
 
-[![@madhushaprasad's Holopin board](https://holopin.me/madhushaprasad)](https://holopin.io/@madhushaprasad)
+[![@dulajthiwanka's Holopin board](https://holopin.me/dulajthiwanka)](https://holopin.io/@dulajthiwanka)
 <hr/>
 
