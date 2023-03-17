@@ -72,6 +72,8 @@ Specialising in Information Technology</h6>
   </a>
 </p>
 <br>
-<hr>
-[![An image of @dulajthiwanka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dulajthiwanka)](https://holopin.io/@dulajthiwanka)
+## Awards
+
+[![@madhushaprasad's Holopin board](https://holopin.me/madhushaprasad)](https://holopin.io/@madhushaprasad)
+<hr/>
 
