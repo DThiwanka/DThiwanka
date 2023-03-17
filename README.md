@@ -71,8 +71,6 @@ Specialising in Information Technology</h6>
    
   </a>
 </p>
-<br>
-## Awards
 
 [![@dulajthiwanka's Holopin board](https://holopin.me/dulajthiwanka)](https://holopin.io/@dulajthiwanka)
 <hr/>
