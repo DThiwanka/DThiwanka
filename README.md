@@ -57,7 +57,8 @@ Specialising in Information Technology</h6>
 
 
 ![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-[![Dulaj Thiwanka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DThiwanka&bg_color=00000f&color=ffffff&line=FA8B00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![DulajThiwanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dthiwanka&bg_color=0d1117&color=ffffff&line=0f6d31&point=ffc837&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dthiwanka/dthiwanka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dthiwanka/dthiwanka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
