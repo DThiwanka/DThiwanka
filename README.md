@@ -56,7 +56,7 @@ Specialising in Information Technology</h6>
 <br>
 
 
-![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-season-animate.svg)
+![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![DulajThiwanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dthiwanka&bg_color=0d1117&color=ffffff&line=0f6d31&point=ffc837&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
