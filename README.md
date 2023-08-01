@@ -76,6 +76,9 @@ Specialising in Information Technology</h6>
 [![@dulajthiwanka's Holopin board](https://holopin.me/dulajthiwanka)](https://holopin.io/@dulajthiwanka)
 <hr/>
 
+<p align="center">
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</p>
+
 
