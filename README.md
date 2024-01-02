@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./upheader.png)
 
 <h3>Undergraduate Student @SLIIT</h3>
 <h6>BSc (Hons) in Information Technology
