@@ -7,22 +7,18 @@ Specialising in Information Technology</h6>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajth&label=Profile%20views&color=0e75b6&style=flat" alt="dulajth" /> </p> -->
 
 <hr>
-<h4>∙∙ Thank You for taking the time to view my GitHub Profile :dizzy: </h4>
+
+<h4>✨ Thank you for taking the time to visit my GitHub profile!</h4>
 <hr>
 
-- 🔭 Former Intern software engineer at **Axiata Digital Labs** 
-
-- 🌱 I’m currently learning **Software Engineering @SLIIT** 
-
-- 🤝 I’m looking for help  **for my Projects**..
-
-- 📫 How to reach me **dulthiwanka2015@gmail.com**
-
-<!-- - 🤔 I’m looking for help with **My projects** -->
-
-- ⚡ Fun fact **Sometimes, I talking with myself** :wave: 
+- 🔭 **Former Software Engineer Intern** at [Axiata Digital Labs](https://www.axiatadigitallabs.com)  
+- 🌱 Currently pursuing **Software Engineering** at [SLIIT](https://www.sliit.lk)  
+- 🤝 Looking for collaboration on my **projects and open-source work**  
+- 📫 Feel free to reach out to me at **dulthiwanka2015@gmail.com**  
+- ⚡ **Fun Fact:** I sometimes talk to myself—great way to brainstorm! 😄
 
 <hr>
+
 
 <h3 align="left">Connect with me: :comet: </h3>
 <p align="left">
