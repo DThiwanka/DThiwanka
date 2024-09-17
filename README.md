@@ -1,8 +1,7 @@
 ![Header](./upheader.png)
 
-<h3>Undergraduate Student @SLIIT</h3>
-<h6>BSc (Hons) in Information Technology
-Specialising in Information Technology</h6>
+<h3>Undergraduate Student at SLIIT</h3>
+<h5>BSc (Hons) in Information Technology, Specializing in Information Technology</h5>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajth&label=Profile%20views&color=0e75b6&style=flat" alt="dulajth" /> </p> -->
 
@@ -13,11 +12,16 @@ Specialising in Information Technology</h6>
 
 - 🔭 **Former Software Engineer Intern** at [Axiata Digital Labs](https://www.axiatadigitallabs.com)  
 - 🌱 Currently pursuing **Software Engineering** at [SLIIT](https://www.sliit.lk)  
-- 🤝 Looking for collaboration on my **projects and open-source work**  
+- 🛠️ Proficient in **MERN Stack, Java, Python, and Tailwind CSS**  
+- 🌍 Passionate about **open-source contributions** and **building impactful web applications**  
+- 🤝 Looking to collaborate on **exciting projects and open-source work**  
 - 📫 Feel free to reach out to me at **dulthiwanka2015@gmail.com**  
-- ⚡ **Fun Fact:** I sometimes talk to myself—great way to brainstorm! 😄
+- ✨ Actively seeking **Associate Software Engineer roles** to further hone my skills  
+- 💬 Ask me about **JavaScript, React, APIs, or anything tech-related**  
+- ⚡ **Fun Fact:** I sometimes talk to myself—it's a great way to brainstorm and solve problems! 😄  
 
 <hr>
+
 
 
 <h3 align="left">Connect with me: :comet: </h3>
