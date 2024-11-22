@@ -11,7 +11,7 @@
 <hr>
 
 - 🤖 **Associate Software Engineer** at [TalentFort - QuorTech](https://talentfort.lk/)
-- 🕵🏻 **Former Trainee Node Developer** at [ShakyaWebs]
+- 🕵🏻 **Former Trainee Node Developer** at ShakyaWebs.
 - 🔭 **Former Software Engineer Intern** at [Axiata Digital Labs](https://www.axiatadigitallabs.com)
 - 🌱 Currently pursuing **Software Engineering** at [SLIIT](https://www.sliit.lk)  
 - 🛠️ Proficient in **MERN Stack, Java, Python, and Tailwind CSS**  
