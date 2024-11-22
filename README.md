@@ -10,7 +10,9 @@
 <h4>✨ Thank you for taking the time to visit my GitHub profile!</h4>
 <hr>
 
-- 🔭 **Former Software Engineer Intern** at [Axiata Digital Labs](https://www.axiatadigitallabs.com)  
+- 🤖 **Associate Software Engineer** at [TalentFort - QuorTech](https://talentfort.lk/)
+- 🕵🏻 **Former Trainee Node Developer** at [ShakyaWebs]
+- 🔭 **Former Software Engineer Intern** at [Axiata Digital Labs](https://www.axiatadigitallabs.com)
 - 🌱 Currently pursuing **Software Engineering** at [SLIIT](https://www.sliit.lk)  
 - 🛠️ Proficient in **MERN Stack, Java, Python, and Tailwind CSS**  
 - 🌍 Passionate about **open-source contributions** and **building impactful web applications**  
