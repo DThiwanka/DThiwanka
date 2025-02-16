@@ -15,8 +15,8 @@
 - ⚛️ **Trainee Software Engineer** at [Syneptic Labs](https://synepticglobal.com/)
 - 🔭 **Former Software Engineer Intern** at [Axiata Digital Labs](https://www.axiatadigitallabs.com)
 - 🌱 Currently pursuing **Software Engineering** at [SLIIT](https://www.sliit.lk)  
-- 🛠️ Proficient in **MERN Stack, Java, Python, and Tailwind CSS**  
-- 🌍 Passionate about **open-source contributions** and **building impactful web applications**  
+- 🛠️ Proficient in **MERN Stack, Prisma ORM, MongoDB, Java, Python, and Tailwind CSS.**
+- 🌍 Passionate about **AI, Robotics, and open-source contributions**  
 - 🤝 Looking to collaborate on **exciting projects and open-source work**  
 - 📫 Feel free to reach out to me at **dulthiwanka2015@gmail.com**  
 - ✨ Actively seeking **Associate Software Engineer roles** to further hone my skills  
