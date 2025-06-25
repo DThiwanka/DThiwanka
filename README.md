@@ -13,13 +13,14 @@
 - 🕵🏻 **Former Trainee Node Developer** at ShakyaWebs.
 - ⚛️ **Trainee Software Engineer** at [Syneptic Labs](https://synepticglobal.com/)
 - 🔭 **Former Software Engineer Intern** at [Axiata Digital Labs](https://www.axiatadigitallabs.com)
-- 🌱 Currently pursuing **Software Engineering** at [SLIIT](https://www.sliit.lk)  
-- 🛠️ Proficient in **MERN Stack, Prisma ORM, MongoDB, Java, Python, and Tailwind CSS.**
+- 🎓 **Graduated** with a degree in **BSc (Hons) in Information Technology** from [SLIIT](https://www.sliit.lk)
+- 🛠️ Proficient in **MERN Stack, Prisma ORM, Sequelize, MongoDB and Tailwind CSS.**
+- 📚 Currently learning **NextJS** to strengthen my full-stack skills.
 - 🌍 Passionate about **AI, Robotics, and open-source contributions**  
 - 🤝 Looking to collaborate on **exciting projects and open-source work**  
 - 📫 Feel free to reach out to me at **dulthiwanka2015@gmail.com**  
 - ✨ Actively seeking **Associate Software Engineer roles** to further hone my skills  
-- 💬 Ask me about **JavaScript, React, APIs, or anything tech-related**  
+- 💬 Ask me about **AI, Full stack development, React, APIs, or anything tech-related**  
 - ⚡ **Fun Fact:** I sometimes talk to myself—it's a great way to brainstorm and solve problems! 😄  
 
 <hr>
