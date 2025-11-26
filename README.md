@@ -9,9 +9,9 @@
 <h4>✨ Thank you for taking the time to visit my GitHub profile!</h4>
 <hr>
 
-- 🤖 **Associate Software Developer** at [TalentFort - QuorTech](https://talentfort.lk/)
-- 🕵🏻 **Former Trainee Node Developer** at ShakyaWebs.
-- ⚛️ **Trainee Software Engineer** at [Syneptic Labs](https://synepticglobal.com/)
+- 🤖 **Associate Software Engineer** at [TalentFort](https://talentfort.lk/)
+- 🕵🏻 **Former React Node Developer** at ShakyaWebs.
+- ⚛️ **Former Trainee Software Engineer** at [Syneptic Labs](https://synepticglobal.com/)
 - 🔭 **Former Software Engineer Intern** at [Axiata Digital Labs](https://www.axiatadigitallabs.com)
 - 🎓 **Graduated** with a degree in **BSc (Hons) in Information Technology** from [SLIIT](https://www.sliit.lk)
 - 🛠️ Proficient in **MERN Stack, Prisma ORM, Sequelize, MongoDB and Tailwind CSS.**
