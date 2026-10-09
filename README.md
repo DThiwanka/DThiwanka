@@ -24,7 +24,7 @@
 - ⚡ **Fun Fact:** I sometimes talk to myself—it's a great way to brainstorm and solve problems! 😄  
 
 <hr>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/USERNAME.svg)](https://user-badge.committers.top/sri_lanka_private/Dthiwanka)
+![committers.top badge](https://user-badge.committers.top/srilankaprivate/DThiwanka.svg)
 <hr>
 
 
