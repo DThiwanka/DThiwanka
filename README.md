@@ -23,11 +23,11 @@
 - 💬 Ask me about **AI, Full stack development, React, APIs, or anything tech-related**  
 - ⚡ **Fun Fact:** I sometimes talk to myself—it's a great way to brainstorm and solve problems! 😄  
 
-<hr>
-![committers.top badge](https://user-badge.committers.top/srilankaprivate/DThiwanka.svg)
-<hr>
-
-
+<p align="center">
+<a href="https://committers.top/sri_lanka_private#Dthiwanka">
+    <img src="https://user-badge.committers.top/sri_lanka_private/Dthiwanka.svg" width="450" alt="GitHub Rank" />
+</a>
+</p>
 
 <h3 align="left">Connect with me: :comet: </h3>
 <p align="left">
